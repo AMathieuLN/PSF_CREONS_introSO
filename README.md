@@ -1,10 +1,11 @@
-# PSF CREONS — Plan Structurant de Formation 'Coopérative de recherche équitable et ouverte Nords-Suds'
+# Ouverture plénière mercredi 27 mai 2026 du PSF CREONS : "La science ouverte : transformer les pratiques de recherche ?"
+_Plan Structurant de Formation 'Coopérative de recherche équitable et ouverte Nords-Suds'_
 
-Présentation d’ouverture du Programme Structurant de Formation (PSF) CREONS porté par l’UMI SOURCE (UVSQ/IRD). La présentation est ici : amathieuln.github.io/PSF_CREONS_introSO/
+Présentation d’ouverture du Programme Structurant de Formation (PSF) CREONS porté par l’UMI SOURCE (UVSQ/IRD). La présentation est ici : [amathieuln.github.io/PSF_CREONS_introSO/](https://amathieuln.github.io/PSF_CREONS_introSO/)
 
-Le programme CREONS (*Coopération de Recherche Équitable et Ouverte Nord-Sud*) réunit doctorant.es et chercheur.es des antennes de l’UMI SOURCE en France, Côte d’Ivoire, Madagascar et Sénégal autour des enjeux de science ouverte, reproductibilité scientifique, données de recherche, collaborations Nords-Suds et formation de formateurs.
+Le programme de formation de 10 jours du PSF CREONS réunit doctorant.es et chercheur.es des antennes de l’UMI SOURCE en France, Côte d’Ivoire, Madagascar et Sénégal autour des enjeux de science ouverte, reproductibilité scientifique, données de recherche, collaborations Nords-Suds et formation de formateurs.
 
-Le dépôt contient les slides RevealJS de la session d’introduction réalisées avec Quarto. La présentation est éditée sur "index.qmd" et éditée sur "index.html". 
+Le dépôt contient les slides RevealJS de la session d’introduction réalisées avec Quarto. La présentation est éditée sur "index.qmd" et générée sur "doc/index.html". 
 
 ```text
 
@@ -12,4 +13,5 @@ Le dépôt contient les slides RevealJS de la session d’introduction réalisé
 ├── styles.css
 ├── images/
 ├── docs/
+│   └── index.html
 └── _quarto.yml
