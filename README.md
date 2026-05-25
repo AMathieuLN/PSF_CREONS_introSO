@@ -1,4 +1,4 @@
-# Ouverture plénière mercredi 27 mai 2026 du PSF CREONS : "La science ouverte : transformer les pratiques de recherche ?"
+# Ouverture plénière du PSF CREONS "La science ouverte : transformer les pratiques de recherche ?" - Mercredi 27 mai 2026
 _Plan Structurant de Formation 'Coopérative de recherche équitable et ouverte Nords-Suds'_
 
 Présentation d’ouverture du Programme Structurant de Formation (PSF) CREONS porté par l’UMI SOURCE (UVSQ/IRD). La présentation est ici : [amathieuln.github.io/PSF_CREONS_introSO/](https://amathieuln.github.io/PSF_CREONS_introSO/)
